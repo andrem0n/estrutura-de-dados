@@ -1,0 +1,11 @@
+{
+    "configurations": [
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - Agenda",
+            "request": "launch",
+            "mainClass": "Agenda",
+            "projectName": "projeto_agenda"
+        }
+    ]
+}
